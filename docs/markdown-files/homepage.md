@@ -1,13 +1,14 @@
 ---
 
 # Welcome to the Jojk's Modpacks page! 
-**This is a repository of Jojk's Minecraft Server Modpacks!**
+### This is a repository of Jojk's Minecraft Server Modpacks!**
 
 ---
 
 ## Modpack Installer Pre-requisites:
-- **[Git](https://git-scm.com/downloads).** 
+- **[Git](https://git-scm.com/downloads)**
 - **The Correct Mod Loader Installed (This is Modpack Dependent)**
+- **Location of `.minecraft/` folder is unchanged from default**
 
 ---
 
