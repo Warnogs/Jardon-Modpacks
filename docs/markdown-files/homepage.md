@@ -1,7 +1,7 @@
 ---
 
 # Welcome to the Jojk's Modpacks page! 
-## This is an archive of JOJK's Annual-ish Minecraft Server Modpacks!
+**This is a repository of Jojk's Minecraft Server Modpacks!**
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## How to Navigate
 Use the **☰ menu in the top-left corner** to explore the available Modpacks.  
-Click a topic to load its modlist in this main window.
+Click a modpack to load its installer and modlist!
 
 ---
 
