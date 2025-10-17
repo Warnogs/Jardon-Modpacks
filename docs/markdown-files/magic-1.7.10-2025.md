@@ -46,7 +46,11 @@
 - weaponmod-forge-1.7.10-1.24.2.jar
 - witchery-1.7.10-0.24.1.jar
 
+---
+
 ## Core Mods
 - Baubles-1.7.10-1.0.1.10.jar
 - CodeChickenLib-1.7.10-1.1.3.141-universal.jar
 - [1.7.10]bspkrsCore-universal-6.15.jar
+
+---
