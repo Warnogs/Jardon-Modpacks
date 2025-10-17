@@ -5,7 +5,7 @@ cd /d "%appdata%\.minecraft"
 REM Delete existing mods folder if it exists
 if exist "mods" (
     echo Deleting existing mods folder...
-    echo 
+    echo.
     rmdir /s /q "mods"
 )
 
@@ -20,7 +20,7 @@ REM Checkout the desired branch or tag
 echo Checking out 1.7.10-Magic-2025...
 git checkout 1.7.10-Magic-2025
 
-echo 
+echo.
 echo Cleaning Up...
 
 REM Delete the .git folder to reduce load times
@@ -35,5 +35,6 @@ if exist "README.md" (
     del /f /q "README.md"
 )
 
+echo.
 echo Done!
 pause
