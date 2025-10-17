@@ -13,10 +13,11 @@ if exist "mods" (
     echo Deleting existing mods folder...
     rmdir /s /q "mods"
 )
+echo:
 
 REM Clone the Git repository into a new mods folder
-echo Cloning repository...
 git clone https://github.com/Warnogs/Jardon-Modpacks.git mods
+echo:
 
 REM Change directory to mods folder
 cd mods
