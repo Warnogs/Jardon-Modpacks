@@ -1,2 +1,46 @@
-# Collection of Modpacks for Jordan's Servers
-Each modpack will have its own branch
+# 1.7.10 Magic (2025)
+## Mod List
+- AnimationAPI-1.7.10-1.2.4.jar
+- BiblioCraft[v1.11.7][MC1.7.10].jar
+- BloodMagic-1.7.10-1.3.3-4.jar
+- Botania r1.6-192.jar
+- Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
+- Chisel2-2.3.10.37.jar
+- ClaySoldiersMod-1.7.10-2.0.0-beta.2.jar
+- CodeChickenCore-1.7.10-1.0.7.48-universal.jar
+- CustomMobSpawner+3.3.0.zip
+- CustomNPCs_1.7.10d(29oct17).jar
+- DrZharks MoCreatures Mod v6.3.1.zip
+- ExpandedArmory-forge-1.7.10-1.5.1.jar
+- Forbidden+Magic-1.7.10-0.575.jar
+- GraveStone Mod 0.7.10.3.jar
+- ItemBlacklist-1.7.10-1.2.0.8.jar
+- LLibrary-0.2.0-1.7.10.jar
+- NoMoreRecipeConflict-0.3(1.7.10).jar
+- NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+- OptiFine_1.7.10_HD_U_E7.jar
+- Pam's HarvestCraft 1.7.10g.jar
+- SAPManPack-1.7.10-2.5.1.jar
+- Sanguimancy-1.10.2-2.0.2.jar
+- Tainted-Magic-1.7.10-8.1.1.jar
+- Thaumcraft-1.7.10-4.2.3.5.jar
+- Thaumcraft4Tweaks-1.5.39.jar
+- ThaumcraftMobAspects-1.7.2-2A.jar
+- ThaumicExploration-1.7.10-1.1-53.jar
+- ThaumicTinkerer-2.5-1.7.10-164.jar
+- UselessTools-0.1.2.jar
+- Waystones-mc1.7.10-1.0.12.jar
+- Xaeros_Minimap_FP21.10.40_Forge_1.7.10.jar
+- [1.7.10]Treecapitator-universal-2.0.4.jar
+- growthcraft-1.7.10-2.7.2-complete.jar
+- ironchest-1.7.10-6.0.62.742-universal.jar
+- kinetic anti-cheat-7.3.1.jar
+- roguelike-1.7.10-1.5.0b.jar
+- thaumcraftneiplugin-1.7.10-1.7a.jar
+- weaponmod-forge-1.7.10-1.24.2.jar
+- witchery-1.7.10-0.24.1.jar
+
+## Core Mods
+- Baubles-1.7.10-1.0.1.10.jar
+- CodeChickenLib-1.7.10-1.1.3.141-universal.jar
+- [1.7.10]bspkrsCore-universal-6.15.jar
