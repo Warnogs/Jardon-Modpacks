@@ -6,7 +6,7 @@ const markdownFiles = [
   // ADD NEW MARKDOWN FILES HERE
 ];
 
-const REPO_IMAGE_BASE = "https://ucsolarcarteam.github.io/Embedded-Resources/images";
+const REPO_IMAGE_BASE = "https://warnogs.github.io/Jardon-Modpacks/images";
 
 const fixImagePaths = (mdText) => {
   // Replace ../images/... with link to images in the repo

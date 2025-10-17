@@ -1,5 +1,5 @@
 # 1.7.10 Magic (2025)
-## [Installer](warnogs.github.io/installers/1.7.10-Magic (2025) Installer.bat)
+## [Installer](https://warnogs.github.io/Jardon-Modpacks/Installers/1.7.10-Magic%20(2025)%20Installer.bat)
 
 ## Mod List
 - AnimationAPI-1.7.10-1.2.4.jar
