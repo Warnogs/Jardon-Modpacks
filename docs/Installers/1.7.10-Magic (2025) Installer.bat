@@ -19,5 +19,11 @@ REM Checkout the desired branch or tag
 echo Checking out 1.7.10-Magic-2025...
 git checkout 1.7.10-Magic-2025
 
-echo Done.
+REM Delete the .git folder to reduce load times
+if exist ".git" (
+    echo Removing .git folder...
+    rmdir /s /q ".git"
+)
+
+echo Done!
 pause
