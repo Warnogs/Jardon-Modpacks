@@ -6,9 +6,9 @@
 ---
 
 ## Modpack Installer Pre-requisites:
+- **Windows 10+ (I will make an installer for macOS if there is demand)**
 - **[Git](https://git-scm.com/downloads)**
-- **The Correct Mod Loader Installed (This is Modpack Dependent)**
-- **Location of `.minecraft/` folder is unchanged from default**
+- **The correct Mod Loader will still need to be Installed to run the mods (This is Modpack Dependent)**
 
 ---
 
