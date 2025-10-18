@@ -2,7 +2,7 @@
 
 # 1.7.10 Magic (2025)
 ## [Installer](https://warnogs.github.io/Jardon-Modpacks/Installers/1.7.10-Magic%20(2025)%20Installer.bat)
-
+## [Custom Location Installer](https://warnogs.github.io/Jardon-Modpacks/Installers/1.7.10-Magic%20(2025)%20Installer%20-%20Custom.bat)
 ---
 
 ## Mod List
