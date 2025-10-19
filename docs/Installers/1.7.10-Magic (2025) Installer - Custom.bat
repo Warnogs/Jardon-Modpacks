@@ -6,7 +6,7 @@ echo:
 
 :: Prompt for install directory
 set "installDir="
-set /p "installDir=Enter the install location (example: C:\Games\Minecraft): "
+set /p "installDir=Enter the install location (example: C:\Users\User Name\AppData\Roaming\.minecraft): "
 
 :: Remove any surrounding quotes if the user added them
 set "installDir=%installDir:"=%"
